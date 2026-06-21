@@ -1,9 +1,6 @@
 name: OKX Kline Update (scheduled)
 
 on:
-  schedule:
-    # TEST: 每 5 分钟（GitHub 最短间隔），验证后改回 "17 * * * *"
-    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,9 +13,13 @@ concurrency:
 jobs:
   update-kline-snapshot:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
 
     steps:
+      # TEST: 3 分钟后再跑；验证通过后改回 sleep 0 或删掉本步
+      - name: Wait 3 minutes (TEST)
+        run: sleep 180
+
       - name: Checkout data repo
         uses: actions/checkout@v4
 
@@ -45,7 +46,16 @@ jobs:
           git add data.json
           if git diff --staged --quiet; then
             echo "No changes."
-            exit 0
+          else
+            git commit -m "chore: update OKX klines $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
           fi
-          git commit -m "chore: update OKX klines $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+
+      # GitHub schedule 不触发时：跑完后 1 小时链式触发下一次（TEST 时改 180）
+      - name: Chain next run
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.CLOUD_DATA_PUSH_TOKEN }}
+        run: |
+          sleep 180
+          gh workflow run "OKX Kline Update (scheduled)" -R Faker2004/re0choice-cloud-data --ref main
