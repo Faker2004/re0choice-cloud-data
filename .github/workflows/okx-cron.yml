@@ -1,0 +1,51 @@
+name: OKX Kline Update (scheduled)
+
+on:
+  schedule:
+    # UTC 每小时 :17（约北京时间 :17，错开整点高峰）
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: okx-cloud-data-scheduled
+  cancel-in-progress: false
+
+jobs:
+  update-kline-snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch updater scripts from cloud-runner
+        run: |
+          curl -fsSL -o update_okx.py https://raw.githubusercontent.com/Faker2004/re0choice-cloud-runner/main/update_okx.py
+          curl -fsSL -o requirements.txt https://raw.githubusercontent.com/Faker2004/re0choice-cloud-runner/main/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run OKX updater
+        run: python update_okx.py
+
+      - name: Commit data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "chore: update OKX klines $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
