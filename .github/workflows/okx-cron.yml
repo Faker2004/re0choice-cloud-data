@@ -1,9 +1,7 @@
 name: OKX Kline Update (scheduled)
 
+# GitHub 内置 schedule 在本账号不触发，改由 cron-job.org 每小时 POST workflow_dispatch。
 on:
-  schedule:
-    # UTC 每小时 :17（约北京时间 :17）
-    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
