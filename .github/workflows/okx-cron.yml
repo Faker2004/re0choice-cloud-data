@@ -2,8 +2,8 @@ name: OKX Kline Update (scheduled)
 
 on:
   schedule:
-    # TEST: 约 3 分钟后触发（UTC 11:44/11:45），验证后改回 "17 * * * *"
-    - cron: "44,45 11 * * *"
+    # TEST: 每 5 分钟（GitHub 最短间隔），验证后改回 "17 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
