@@ -1,6 +1,6 @@
 name: OKX Kline Update (scheduled)
 
-# GitHub 内置 schedule 在本账号不触发，改由 cron-job.org 每小时 POST workflow_dispatch。
+# GitHub 内置 schedule 不触发；由 Cloudflare Worker Cron 每小时 POST workflow_dispatch。
 on:
   workflow_dispatch:
 
