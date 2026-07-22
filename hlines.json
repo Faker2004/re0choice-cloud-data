@@ -1,1 +1,49 @@
-{"version":1,"updatedAt":"2026-07-22T08:50:00.000Z","bySymbol":{}}
+{
+  "version": 2,
+  "updatedAt": "2026-07-22T10:37:20.979Z",
+  "bySymbol": {
+    "BTCUSDT": [
+      {
+        "id": "hl-1784703587522-wgfc3",
+        "price": 67286.93064540134,
+        "color": "#f0b90b",
+        "updatedAt": 1784703587522
+      },
+      {
+        "id": "hl-1784703626564-hv5u4",
+        "price": 62237.999854093,
+        "color": "#f0b90b",
+        "updatedAt": 1784716543491
+      },
+      {
+        "id": "hl-1784707213731-z2jky",
+        "price": 65594.24936050565,
+        "color": "#f0b90b",
+        "updatedAt": 1784707224222
+      },
+      {
+        "id": "hl-1784716547929-qh06p",
+        "price": 64810.24727367376,
+        "color": "#f0b90b",
+        "updatedAt": 1784716547929
+      }
+    ],
+    "HYPEUSDT": [
+      {
+        "id": "hl-1784707037497-begy2",
+        "price": 58.41919202475961,
+        "color": "#f0b90b",
+        "updatedAt": 1784707037497
+      },
+      {
+        "id": "hl-1784707039445-jhvs3",
+        "price": 75.99602746405301,
+        "color": "#f0b90b",
+        "updatedAt": 1784707060057
+      }
+    ]
+  },
+  "watchlistIds": [
+    "BTCUSDT"
+  ]
+}
