@@ -1,7 +1,27 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-23T08:06:04.398Z",
+  "updatedAt": "2026-07-23T08:12:48.978Z",
   "bySymbol": {
+    "BTCUSDT": [
+      {
+        "id": "hl-1784703626564-hv5u4",
+        "price": 62237.999854093,
+        "color": "#f0b90b",
+        "updatedAt": 1784716543491
+      },
+      {
+        "id": "hl-1784707213731-z2jky",
+        "price": 65672.29644472529,
+        "color": "#f0b90b",
+        "updatedAt": 1784731041517
+      },
+      {
+        "id": "hl-1784716547929-qh06p",
+        "price": 64876.710364898405,
+        "color": "#f0b90b",
+        "updatedAt": 1784731102998
+      }
+    ],
     "HYPEUSDT": [
       {
         "id": "hl-1784707037497-begy2",
@@ -335,35 +355,13 @@
         "color": "#f0b90b",
         "updatedAt": 1784793401995
       }
-    ],
-    "BTCUSDT": [
-      {
-        "id": "hl-1784703587522-wgfc3",
-        "price": 67286.93064540134,
-        "color": "#f0b90b",
-        "updatedAt": 1784703587522
-      },
-      {
-        "id": "hl-1784707213731-z2jky",
-        "price": 65594.24936050565,
-        "color": "#f0b90b",
-        "updatedAt": 1784707224222
-      },
-      {
-        "id": "hl-1784703626564-hv5u4",
-        "price": 62237.999854093,
-        "color": "#f0b90b",
-        "updatedAt": 1784716543491
-      },
-      {
-        "id": "hl-1784716547929-qh06p",
-        "price": 64810.24727367376,
-        "color": "#f0b90b",
-        "updatedAt": 1784716547929
-      }
     ]
   },
   "watchlistIds": [
-    "BTCUSDT"
+    "BTCUSDT",
+    "KAITOUSDT",
+    "HEMIUSDT",
+    "HYPEUSDT",
+    "ZECUSDT"
   ]
 }
