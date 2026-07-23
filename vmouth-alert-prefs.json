@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T09:23:11.222Z",
+  "updatedAt": "2026-07-23T09:23:13.165Z",
   "masterEnabled": true,
   "events": {
-    "V底": true,
+    "V底": false,
     "V顶": true,
     "破口": true,
     "破底": true,
