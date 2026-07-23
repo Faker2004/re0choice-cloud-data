@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-22T10:37:20.979Z",
+  "updatedAt": "2026-07-23T05:22:58.981Z",
   "bySymbol": {
     "BTCUSDT": [
       {
@@ -17,15 +17,21 @@
       },
       {
         "id": "hl-1784707213731-z2jky",
-        "price": 65594.24936050565,
+        "price": 65672.29644472529,
         "color": "#f0b90b",
-        "updatedAt": 1784707224222
+        "updatedAt": 1784731041517
       },
       {
         "id": "hl-1784716547929-qh06p",
-        "price": 64810.24727367376,
+        "price": 64876.710364898405,
         "color": "#f0b90b",
-        "updatedAt": 1784716547929
+        "updatedAt": 1784731102998
+      },
+      {
+        "id": "hl-1784784177134-gdzbj",
+        "price": 65556.46535932647,
+        "color": "#f0b90b",
+        "updatedAt": 1784784177134
       }
     ],
     "HYPEUSDT": [
@@ -41,9 +47,105 @@
         "color": "#f0b90b",
         "updatedAt": 1784707060057
       }
+    ],
+    "1000PEPEUSDT": [
+      {
+        "id": "hl-1784716758388-jthhv",
+        "price": 0.0025566440390343962,
+        "color": "#f0b90b",
+        "updatedAt": 1784716758388
+      }
+    ],
+    "SYNUSDT": [
+      {
+        "id": "hl-1784717102538-jvbx9",
+        "price": 0.2592075258585872,
+        "color": "#f0b90b",
+        "updatedAt": 1784717102538
+      }
+    ],
+    "KAITOUSDT": [
+      {
+        "id": "hl-1784717551465-fr3g6",
+        "price": 0.606129597105223,
+        "color": "#f0b90b",
+        "updatedAt": 1784717551465
+      },
+      {
+        "id": "hl-1784717563692-fci7s",
+        "price": 0.716987879131229,
+        "color": "#f0b90b",
+        "updatedAt": 1784717572730
+      }
+    ],
+    "PUMPUSDT": [
+      {
+        "id": "hl-1784717905455-b346z",
+        "price": 0.0013752977414321047,
+        "color": "#f0b90b",
+        "updatedAt": 1784717905455
+      },
+      {
+        "id": "hl-1784717908550-c0wnv",
+        "price": 0.0015518440603288157,
+        "color": "#f0b90b",
+        "updatedAt": 1784717908550
+      }
+    ],
+    "DOTUSDT": [
+      {
+        "id": "hl-1784718254200-dypdm",
+        "price": 0.8142602345471623,
+        "color": "#f0b90b",
+        "updatedAt": 1784718254200
+      },
+      {
+        "id": "hl-1784718255313-bvlx0",
+        "price": 0.9080302574043898,
+        "color": "#f0b90b",
+        "updatedAt": 1784718255313
+      }
+    ],
+    "EVAAUSDT": [
+      {
+        "id": "hl-1784718726227-lgupc",
+        "price": 1.2392862614126043,
+        "color": "#f0b90b",
+        "updatedAt": 1784718726227
+      }
+    ],
+    "ZECUSDT": [
+      {
+        "id": "hl-1784783752855-zhpm4",
+        "price": 485.85949579410203,
+        "color": "#f0b90b",
+        "updatedAt": 1784783752855
+      },
+      {
+        "id": "hl-1784783764459-we5ex",
+        "price": 572.8955809588816,
+        "color": "#f0b90b",
+        "updatedAt": 1784783764459
+      },
+      {
+        "id": "hl-1784783783261-75fi9",
+        "price": 644.9254445435269,
+        "color": "#f0b90b",
+        "updatedAt": 1784783783261
+      },
+      {
+        "id": "hl-1784783880552-jozzx",
+        "price": 546.7422239861481,
+        "color": "#f0b90b",
+        "updatedAt": 1784783880552
+      }
     ]
   },
   "watchlistIds": [
-    "BTCUSDT"
+    "BTCUSDT",
+    "KAITOUSDT",
+    "HEMIUSDT",
+    "HYPEUSDT",
+    "ZECUSDT"
   ]
 }
