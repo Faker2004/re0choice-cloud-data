@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-24T03:11:15.322Z",
+  "updatedAt": "2026-07-24T08:03:58.866Z",
   "masterEnabled": true,
   "bySymbol": {
     "BTC": {
       "V底": true,
-      "V顶": false,
+      "V顶": true,
       "破口": true,
       "破底": true,
       "破顶": true
