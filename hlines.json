@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-24T08:24:46.899Z",
+  "updatedAt": "2026-07-24T08:26:23.854Z",
   "bySymbol": {
     "BTCUSDT": [
       {
@@ -599,6 +599,14 @@
         "color": "#f0b90b",
         "updatedAt": 1784881465568
       }
+    ],
+    "ALLOUSDT": [
+      {
+        "id": "hl-1784881525078-qoygp",
+        "price": 0.530855445675662,
+        "color": "#f0b90b",
+        "updatedAt": 1784881525078
+      }
     ]
   },
   "watchlistIds": [
@@ -606,11 +614,9 @@
     "HYPEUSDT",
     "ZECUSDT",
     "LITUSDT",
-    "WLDUSDT",
     "BEATUSDT",
-    "KAITOUSDT",
     "REUSDT",
     "QQQUSDT",
-    "UBUSDT"
+    "ALLOUSDT"
   ]
 }
