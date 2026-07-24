@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-24T09:58:09.928Z",
+  "updatedAt": "2026-07-24T09:58:38.015Z",
   "bySymbol": {
     "BTCUSDT": [
       {
@@ -641,7 +641,6 @@
   },
   "watchlistIds": [
     "BTCUSDT",
-    "HEMIUSDT",
     "HYPEUSDT",
     "ZECUSDT"
   ]
