@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-24T09:15:54.926Z",
+  "updatedAt": "2026-07-24T09:25:06.427Z",
   "bySymbol": {
     "BTCUSDT": [
       {
@@ -615,6 +615,7 @@
     "ZECUSDT",
     "BEATUSDT",
     "REUSDT",
-    "QQQUSDT"
+    "QQQUSDT",
+    "ALLOUSDT"
   ]
 }
