@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-24T09:58:38.015Z",
+  "updatedAt": "2026-07-24T10:19:34.007Z",
   "bySymbol": {
     "BTCUSDT": [
       {
@@ -637,11 +637,34 @@
         "color": "#f0b90b",
         "updatedAt": 1784881525078
       }
+    ],
+    "BILLUSDT": [
+      {
+        "id": "hl-1784887322773-mlnlk",
+        "price": 0.02839337171807781,
+        "color": "#f0b90b",
+        "updatedAt": 1784887322773
+      },
+      {
+        "id": "hl-1784887324891-602rw",
+        "price": 0.03689897949108985,
+        "color": "#f0b90b",
+        "updatedAt": 1784887324891
+      },
+      {
+        "id": "hl-1784887341397-2fkuv",
+        "price": 0.03236153441626521,
+        "color": "#f0b90b",
+        "updatedAt": 1784887341397
+      }
     ]
   },
   "watchlistIds": [
     "BTCUSDT",
     "HYPEUSDT",
-    "ZECUSDT"
+    "ZECUSDT",
+    "ALLOUSDT",
+    "BILLUSDT",
+    "REUSDT"
   ]
 }
