@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-25T05:05:21.330Z",
+  "updatedAt": "2026-07-25T05:17:59.774Z",
   "bySymbol": {
     "BTCUSDT": [
       {
@@ -408,56 +408,6 @@
         "price": 201.3681849008447,
         "color": "#f0b90b",
         "updatedAt": 1784806757968
-      }
-    ],
-    "WLDUSDT": [
-      {
-        "id": "hl-1784787742706-yqhey",
-        "price": 0.29519846216157614,
-        "color": "#f0b90b",
-        "updatedAt": 1784787742706
-      },
-      {
-        "id": "hl-1784866825793-6xq1h",
-        "price": 1.3123303666637938,
-        "color": "#f0b90b",
-        "updatedAt": 1784866825793
-      },
-      {
-        "id": "hl-1784877878014-5e81x",
-        "price": 0.3633623880041166,
-        "color": "#f0b90b",
-        "updatedAt": 1784877878014
-      },
-      {
-        "id": "hl-1784877882413-5hhnn",
-        "price": 0.4307072619060827,
-        "color": "#f0b90b",
-        "updatedAt": 1784877882413
-      },
-      {
-        "id": "hl-1784877884114-urx1h",
-        "price": 0.4166770798431731,
-        "color": "#f0b90b",
-        "updatedAt": 1784877884114
-      },
-      {
-        "id": "hl-1784880688209-p3lc6",
-        "price": 0.40286044858649545,
-        "color": "#f0b90b",
-        "updatedAt": 1784880688209
-      },
-      {
-        "id": "hl-1784880690193-2nhq6",
-        "price": 0.3699941090223561,
-        "color": "#f0b90b",
-        "updatedAt": 1784880690193
-      },
-      {
-        "id": "hl-1784880702280-ehdio",
-        "price": 0.38975423955785093,
-        "color": "#f0b90b",
-        "updatedAt": 1784880702280
       }
     ],
     "VVVUSDT": [
@@ -879,6 +829,20 @@
         "color": "#f0b90b",
         "updatedAt": 1784955887880
       }
+    ],
+    "WLDUSDT": [
+      {
+        "id": "hl-1784956664738-okehm",
+        "price": 0.4029888069978913,
+        "color": "#f0b90b",
+        "updatedAt": 1784956664738
+      },
+      {
+        "id": "hl-1784956667176-sxlg7",
+        "price": 0.3640302615629959,
+        "color": "#f0b90b",
+        "updatedAt": 1784956667176
+      }
     ]
   },
   "watchlistIds": [
@@ -886,9 +850,9 @@
     "HYPEUSDT",
     "ZECUSDT",
     "ALLOUSDT",
-    "BILLUSDT",
     "REUSDT",
     "BEATUSDT",
-    "ZAMAUSDT"
+    "ZAMAUSDT",
+    "WLDUSDT"
   ]
 }
