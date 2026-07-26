@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-25T11:28:53.202Z",
+  "updatedAt": "2026-07-26T02:18:06.600Z",
   "bySymbol": {
     "BTCUSDT": [
       {
@@ -324,6 +324,12 @@
         "price": 394.0371985259983,
         "color": "#f0b90b",
         "updatedAt": 1784967684853
+      },
+      {
+        "id": "hl-1784984726454-srl92",
+        "price": 623.6169392638739,
+        "color": "#f0b90b",
+        "updatedAt": 1784984726454
       }
     ],
     "LINKUSDT": [
@@ -390,6 +396,12 @@
         "price": 9.788768998338588,
         "color": "#f0b90b",
         "updatedAt": 1784786810875
+      },
+      {
+        "id": "hl-1784984527647-dagzv",
+        "price": 9.010033396989257,
+        "color": "#f0b90b",
+        "updatedAt": 1784984527647
       }
     ],
     "ONDOUSDT": [
@@ -502,6 +514,12 @@
         "price": 0.160454006775043,
         "color": "#f0b90b",
         "updatedAt": 1784881483579
+      },
+      {
+        "id": "hl-1784984442289-1pgu0",
+        "price": 0.23754582848255004,
+        "color": "#f0b90b",
+        "updatedAt": 1784984442289
       }
     ],
     "TAOUSDT": [
@@ -712,6 +730,12 @@
         "price": 1.9228187905802778,
         "color": "#f0b90b",
         "updatedAt": 1784968908748
+      },
+      {
+        "id": "hl-1784984186500-dbl2p",
+        "price": 2.3383281199239203,
+        "color": "#f0b90b",
+        "updatedAt": 1784984186500
       }
     ],
     "AKEUSDT": [
@@ -828,6 +852,12 @@
         "price": 0.11197724680035884,
         "color": "#f0b90b",
         "updatedAt": 1784968000913
+      },
+      {
+        "id": "hl-1785032228437-di6hu",
+        "price": 0.3348215103738395,
+        "color": "#f0b90b",
+        "updatedAt": 1785032228437
       }
     ],
     "BILLUSDT": [
@@ -990,6 +1020,18 @@
         "price": 0.5965566063215265,
         "color": "#f0b90b",
         "updatedAt": 1784967806943
+      },
+      {
+        "id": "hl-1784984148438-pytue",
+        "price": 1.3387556213334253,
+        "color": "#f0b90b",
+        "updatedAt": 1784984148438
+      },
+      {
+        "id": "hl-1784984150310-p887l",
+        "price": 1.1025543783474876,
+        "color": "#f0b90b",
+        "updatedAt": 1784984150310
       }
     ],
     "ZAMAUSDT": [
@@ -1071,6 +1113,20 @@
         "color": "#f0b90b",
         "updatedAt": 1784955887880
       }
+    ],
+    "ACEUSDT": [
+      {
+        "id": "hl-1784997976667-x5wvs",
+        "price": 0.07652856464845753,
+        "color": "#f0b90b",
+        "updatedAt": 1784997976667
+      },
+      {
+        "id": "hl-1784997980575-8p4ls",
+        "price": 0.11232886081611135,
+        "color": "#f0b90b",
+        "updatedAt": 1784997980575
+      }
     ]
   },
   "watchlistIds": [
@@ -1079,6 +1135,12 @@
     "ZECUSDT",
     "REUSDT",
     "ZAMAUSDT",
-    "BANKUSDT"
+    "BANKUSDT",
+    "SNDKUSDT",
+    "SOXLUSDT",
+    "MUUSDT",
+    "SPCXUSDT",
+    "SKHYNIXUSDT",
+    "ALLOUSDT"
   ]
 }
