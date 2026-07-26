@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-26T11:08:24.949Z",
+  "updatedAt": "2026-07-26T11:19:42.389Z",
   "bySymbol": {
     "PEPEUSDT": [
       {
@@ -30,10 +30,10 @@
     ],
     "BTCUSDT": [
       {
-        "id": "hl-1785064087684-66opn",
-        "price": 64463.92033918728,
+        "id": "hl-1785064209382-hsfcj",
+        "price": 64496.813417769336,
         "color": "#f6465d",
-        "updatedAt": 1785064088521,
+        "updatedAt": 1785064210463,
         "alert": true
       }
     ]
