@@ -1,47 +1,99 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-26T12:23:20.062Z",
+  "updatedAt": "2026-07-26T13:44:04.799Z",
   "bySymbol": {
-    "PEPEUSDT": [
+    "BANANAS31USDT": [
       {
-        "id": "hl-1785056321253-6dtgj",
-        "price": 0.002976443167396028,
-        "color": "#f6465d",
-        "updatedAt": 1785067003284,
-        "alert": true
-      }
-    ],
-    "ONDOUSDT": [
-      {
-        "id": "hl-1785062867653-o7po5",
-        "price": 0.9573829470827381,
+        "id": "hl-1785072947922-2xunp",
+        "price": 0.011940820735205668,
         "color": "#f0b90b",
-        "updatedAt": 1744502400000,
+        "updatedAt": 1781913600000,
         "alert": false
       }
     ],
-    "PARTIUSDT": [
+    "ARUSDT": [
       {
-        "id": "hl-1785062896294-trlgj",
-        "price": 0.2291012606639305,
+        "id": "hl-1785072971218-3k5mn",
+        "price": 2.1444833668361514,
         "color": "#f0b90b",
-        "updatedAt": 1744502400000,
+        "updatedAt": 1781913600000,
         "alert": false
-      }
-    ],
-    "BTCUSDT": [
-      {
-        "id": "hl-1785068295878-oxnod",
-        "price": 64563.04043493558,
-        "color": "#f6465d",
-        "updatedAt": 1785068297007,
-        "alert": true
       },
       {
-        "id": "hl-1785068295106-i2otc",
-        "price": 64546.249492748684,
+        "id": "hl-1785073085688-iqu7a",
+        "price": 2.280217297810075,
+        "color": "#f0b90b",
+        "updatedAt": 1783123200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785073086982-tv0ud",
+        "price": 2.4361669206311793,
+        "color": "#f0b90b",
+        "updatedAt": 1783123200000,
+        "alert": false
+      }
+    ],
+    "1000PEPEUSDT": [
+      {
+        "id": "hl-1785073024192-7lrgv",
+        "price": 0.0031524179047914503,
+        "color": "#f0b90b",
+        "updatedAt": 1781913600000,
+        "alert": false
+      }
+    ],
+    "APTUSDT": [
+      {
+        "id": "hl-1785073065236-17qs2",
+        "price": 0.7122571962074147,
+        "color": "#f0b90b",
+        "updatedAt": 1781913600000,
+        "alert": false
+      }
+    ],
+    "PEPEUSDT": [
+      {
+        "id": "hl-1785073151604-v3i9a",
+        "price": 0.0029590311376153037,
+        "color": "#f0b90b",
+        "updatedAt": 1785073151604,
+        "alert": false
+      }
+    ],
+    "XLMUSDT": [
+      {
+        "id": "hl-1785073262468-4f1lc",
+        "price": 0.19599403754358766,
         "color": "#f6465d",
-        "updatedAt": 1785068298382,
+        "updatedAt": 1785073265457,
+        "alert": true
+      }
+    ],
+    "PEOPLEUSDT": [
+      {
+        "id": "hl-1785073347491-se0ry",
+        "price": 0.0058271916324192565,
+        "color": "#f0b90b",
+        "updatedAt": 1785073347491,
+        "alert": false
+      }
+    ],
+    "SUIUSDT": [
+      {
+        "id": "hl-1785073390356-8ysdn",
+        "price": 0.7819778068602224,
+        "color": "#f6465d",
+        "updatedAt": 1785073392425,
+        "alert": true
+      }
+    ],
+    "AVAXUSDT": [
+      {
+        "id": "hl-1785073438988-dzeng",
+        "price": 7.105232532667121,
+        "color": "#f6465d",
+        "updatedAt": 1785073439943,
         "alert": true
       }
     ]
@@ -54,6 +106,7 @@
     "SPCXUSDT",
     "SKHYNIXUSDT",
     "QQQUSDT",
-    "PEPEUSDT"
+    "PEPEUSDT",
+    "PEOPLEUSDT"
   ]
 }
