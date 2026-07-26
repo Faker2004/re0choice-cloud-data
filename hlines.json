@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-26T11:35:08.985Z",
+  "updatedAt": "2026-07-26T11:46:23.670Z",
   "bySymbol": {
     "PEPEUSDT": [
       {
@@ -37,10 +37,10 @@
         "alert": true
       },
       {
-        "id": "hl-1785065701035-6ck1v",
-        "price": 64480.298874813816,
+        "id": "hl-1785066377276-ds0kk",
+        "price": 64478.11660729395,
         "color": "#f6465d",
-        "updatedAt": 1785065705170,
+        "updatedAt": 1785066380194,
         "alert": true
       }
     ]
