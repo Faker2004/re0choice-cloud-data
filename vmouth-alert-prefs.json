@@ -1,21 +1,21 @@
 {
-    "updatedAt":  "2026-07-26T12:17:42.395Z",
-    "masterEnabled":  false,
-    "bySymbol":  {
-                     "QQQ":  {
-                                 "破顶":  false,
-                                 "破口":  false,
-                                 "破底":  false,
-                                 "V顶":  false,
-                                 "V底":  false
-                             },
-                     "BTC":  {
-                                 "破顶":  false,
-                                 "破口":  false,
-                                 "破底":  false,
-                                 "V顶":  false,
-                                 "V底":  false
-                             }
-                 },
-    "version":  2
+  "version": 2,
+  "updatedAt": "2026-07-26T12:21:24.189Z",
+  "masterEnabled": false,
+  "bySymbol": {
+    "BTC": {
+      "V底": false,
+      "V顶": false,
+      "破口": false,
+      "破底": false,
+      "破顶": false
+    },
+    "QQQ": {
+      "V底": false,
+      "V顶": false,
+      "破口": false,
+      "破底": false,
+      "破顶": false
+    }
+  }
 }
