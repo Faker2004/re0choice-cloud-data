@@ -1,44 +1,13 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-26T17:15:50.733Z",
-  "bySymbol": {
-    "SUIUSDT": [
-      {
-        "id": "hl-1785073390356-8ysdn",
-        "price": 0.7819778068602224,
-        "color": "#f6465d",
-        "updatedAt": 1785073392425,
-        "alert": true
-      }
-    ],
-    "AVAXUSDT": [
-      {
-        "id": "hl-1785073438988-dzeng",
-        "price": 7.105232532667121,
-        "color": "#f6465d",
-        "updatedAt": 1785073439943,
-        "alert": true
-      }
-    ],
-    "PEPEUSDT": [
-      {
-        "id": "hl-1785076883494-y9k8t",
-        "price": 0.0030413957285456883,
-        "color": "#f6465d",
-        "updatedAt": 1785076886269,
-        "alert": true
-      }
-    ]
-  },
+  "updatedAt": "2026-07-26T18:03:33.110Z",
+  "bySymbol": {},
   "watchlistIds": [
     "BTCUSDT",
-    "SNDKUSDT",
-    "SOXLUSDT",
-    "MUUSDT",
-    "SPCXUSDT",
-    "SKHYNIXUSDT",
-    "QQQUSDT",
-    "PEPEUSDT",
-    "PEOPLEUSDT"
+    "HYPEUSDT",
+    "ZECUSDT",
+    "REUSDT",
+    "ZAMAUSDT",
+    "BANKUSDT"
   ]
 }
