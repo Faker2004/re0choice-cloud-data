@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-26T14:40:48.800Z",
+  "updatedAt": "2026-07-26T14:41:31.268Z",
   "bySymbol": {
     "SUIUSDT": [
       {
@@ -17,6 +17,15 @@
         "price": 7.105232532667121,
         "color": "#f6465d",
         "updatedAt": 1785073439943,
+        "alert": true
+      }
+    ],
+    "PEPEUSDT": [
+      {
+        "id": "hl-1785076883494-y9k8t",
+        "price": 0.0030413957285456883,
+        "color": "#f6465d",
+        "updatedAt": 1785076886269,
         "alert": true
       }
     ]
