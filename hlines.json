@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-26T11:46:23.670Z",
+  "updatedAt": "2026-07-26T12:18:21.809Z",
   "bySymbol": {
     "PEPEUSDT": [
       {
         "id": "hl-1785056321253-6dtgj",
         "price": 0.002976443167396028,
-        "color": "#f0b90b",
-        "updatedAt": 1785056321253
+        "color": "#f6465d",
+        "updatedAt": 1785067003284,
+        "alert": true
       }
     ],
     "ONDOUSDT": [
@@ -30,17 +31,17 @@
     ],
     "BTCUSDT": [
       {
-        "id": "hl-1785065699968-gxjgf",
-        "price": 64468.75167132542,
+        "id": "hl-1785068295878-oxnod",
+        "price": 64563.04043493558,
         "color": "#f6465d",
-        "updatedAt": 1785065703263,
+        "updatedAt": 1785068297007,
         "alert": true
       },
       {
-        "id": "hl-1785066377276-ds0kk",
-        "price": 64478.11660729395,
+        "id": "hl-1785068295106-i2otc",
+        "price": 64546.249492748684,
         "color": "#f6465d",
-        "updatedAt": 1785066380194,
+        "updatedAt": 1785068298382,
         "alert": true
       }
     ]
