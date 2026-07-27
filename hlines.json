@@ -1,13 +1,128 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-26T18:03:33.110Z",
-  "bySymbol": {},
+  "updatedAt": "2026-07-27T04:48:06.651Z",
+  "bySymbol": {
+    "SUIUSDT": [
+      {
+        "id": "hl-1785073390356-8ysdn",
+        "price": 0.7819778068602224,
+        "color": "#f6465d",
+        "updatedAt": 1785073392425,
+        "alert": true
+      }
+    ],
+    "AVAXUSDT": [
+      {
+        "id": "hl-1785073438988-dzeng",
+        "price": 7.105232532667121,
+        "color": "#f6465d",
+        "updatedAt": 1785073439943,
+        "alert": true
+      }
+    ],
+    "PEPEUSDT": [
+      {
+        "id": "hl-1785076883494-y9k8t",
+        "price": 0.0030413957285456883,
+        "color": "#f6465d",
+        "updatedAt": 1785076886269,
+        "alert": true
+      }
+    ],
+    "ENAUSDT": [
+      {
+        "id": "hl-1785086284589-4qnfg",
+        "price": 0.08606870902524162,
+        "color": "#f0b90b",
+        "updatedAt": 1784030400000,
+        "alert": false
+      }
+    ],
+    "ZBTUSDT": [
+      {
+        "id": "hl-1785086297372-3dwwl",
+        "price": 0.15896805705572525,
+        "color": "#f0b90b",
+        "updatedAt": 1784030400000,
+        "alert": false
+      }
+    ],
+    "BCHUSDT": [
+      {
+        "id": "hl-1785086306971-r7xq8",
+        "price": 254.94965124923215,
+        "color": "#f0b90b",
+        "updatedAt": 1784030400000,
+        "alert": false
+      }
+    ],
+    "AAVEUSDT": [
+      {
+        "id": "hl-1785086315964-r3amm",
+        "price": 102.34909865820748,
+        "color": "#f0b90b",
+        "updatedAt": 1784030400000,
+        "alert": false
+      }
+    ],
+    "NEARUSDT": [
+      {
+        "id": "hl-1785086359500-gexsj",
+        "price": 2.1082260100802985,
+        "color": "#f0b90b",
+        "updatedAt": 1784030400000,
+        "alert": false
+      }
+    ],
+    "PUMPUSDT": [
+      {
+        "id": "hl-1785127234326-sv5ym",
+        "price": 0.002088693002039687,
+        "color": "#f0b90b",
+        "updatedAt": 1785063600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785127269559-j8s1r",
+        "price": 0.0016918567346153152,
+        "color": "#f0b90b",
+        "updatedAt": 1785063600000,
+        "alert": false
+      }
+    ],
+    "BTCUSDT": [
+      {
+        "id": "hl-1785127671396-zouuv",
+        "price": 62292.333056917145,
+        "color": "#f0b90b",
+        "updatedAt": 1784865600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785127673769-y82mk",
+        "price": 67195.87657609275,
+        "color": "#f0b90b",
+        "updatedAt": 1784865600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785127676426-r4bkn",
+        "price": 65577.7072147648,
+        "color": "#f0b90b",
+        "updatedAt": 1784865600000,
+        "alert": false
+      }
+    ]
+  },
   "watchlistIds": [
     "BTCUSDT",
-    "HYPEUSDT",
-    "ZECUSDT",
-    "REUSDT",
-    "ZAMAUSDT",
-    "BANKUSDT"
+    "SNDKUSDT",
+    "SOXLUSDT",
+    "MUUSDT",
+    "SPCXUSDT",
+    "SKHYNIXUSDT",
+    "QQQUSDT",
+    "PEPEUSDT",
+    "PEOPLEUSDT"
   ]
 }
