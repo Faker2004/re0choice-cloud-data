@@ -1,17 +1,45 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-27T04:48:06.651Z",
+  "updatedAt": "2026-08-11T09:31:05.510Z",
   "bySymbol": {
     "SUIUSDT": [
       {
-        "id": "hl-1785073390356-8ysdn",
-        "price": 0.7819778068602224,
-        "color": "#f6465d",
-        "updatedAt": 1785073392425,
-        "alert": true
+        "id": "hl-1785577352037-vf8uv",
+        "price": 1.604052874272228,
+        "color": "#f0b90b",
+        "updatedAt": 1730152800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785523422910-ue7n1",
+        "price": 2.390282768441658,
+        "color": "#f0b90b",
+        "updatedAt": 1740412800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785523427087-8yahr",
+        "price": 2.8677917638602506,
+        "color": "#f0b90b",
+        "updatedAt": 1740412800000,
+        "alert": false
       }
     ],
     "AVAXUSDT": [
+      {
+        "id": "hl-1785772299782-i971b",
+        "price": 14.508722883809916,
+        "color": "#f0b90b",
+        "updatedAt": 1673542800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785772301318-yluvy",
+        "price": 20.55337275717619,
+        "color": "#f0b90b",
+        "updatedAt": 1673542800000,
+        "alert": false
+      },
       {
         "id": "hl-1785073438988-dzeng",
         "price": 7.105232532667121,
@@ -22,6 +50,27 @@
     ],
     "PEPEUSDT": [
       {
+        "id": "hl-1785521137840-uzxom",
+        "price": 0.000011331948037486446,
+        "color": "#f0b90b",
+        "updatedAt": 1752120000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785992549836-2hadb",
+        "price": 0.0036246037491788085,
+        "color": "#f0b90b",
+        "updatedAt": 1773831600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785131285084-9u3sa",
+        "price": 0.00413198060913131,
+        "color": "#f0b90b",
+        "updatedAt": 1777543200000,
+        "alert": false
+      },
+      {
         "id": "hl-1785076883494-y9k8t",
         "price": 0.0030413957285456883,
         "color": "#f6465d",
@@ -30,6 +79,13 @@
       }
     ],
     "ENAUSDT": [
+      {
+        "id": "hl-1786081207380-cofeh",
+        "price": 0.8589134722887655,
+        "color": "#f0b90b",
+        "updatedAt": 1757505600000,
+        "alert": false
+      },
       {
         "id": "hl-1785086284589-4qnfg",
         "price": 0.08606870902524162,
@@ -49,6 +105,13 @@
     ],
     "BCHUSDT": [
       {
+        "id": "hl-1785566696619-ozahy",
+        "price": 386.96364135931873,
+        "color": "#f0b90b",
+        "updatedAt": 1730152800000,
+        "alert": false
+      },
+      {
         "id": "hl-1785086306971-r7xq8",
         "price": 254.94965124923215,
         "color": "#f0b90b",
@@ -56,16 +119,28 @@
         "alert": false
       }
     ],
-    "AAVEUSDT": [
-      {
-        "id": "hl-1785086315964-r3amm",
-        "price": 102.34909865820748,
-        "color": "#f0b90b",
-        "updatedAt": 1784030400000,
-        "alert": false
-      }
-    ],
     "NEARUSDT": [
+      {
+        "id": "hl-1785134131648-xoyy7",
+        "price": 1.231409867909513,
+        "color": "#f0b90b",
+        "updatedAt": 1772064000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785134162370-lirsz",
+        "price": 1.4465575347551645,
+        "color": "#f0b90b",
+        "updatedAt": 1778040000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785991710890-vknr3",
+        "price": 2.50418572814126,
+        "color": "#f0b90b",
+        "updatedAt": 1779688800000,
+        "alert": false
+      },
       {
         "id": "hl-1785086359500-gexsj",
         "price": 2.1082260100802985,
@@ -90,27 +165,557 @@
         "alert": false
       }
     ],
+    "BIOUSDT": [
+      {
+        "id": "hl-1785131352297-8kp8g",
+        "price": 0.04774048898397214,
+        "color": "#f0b90b",
+        "updatedAt": 1777543200000,
+        "alert": false
+      }
+    ],
+    "ZECUSDT": [
+      {
+        "id": "hl-1785131401839-hdbi6",
+        "price": 394.1898628333548,
+        "color": "#f0b90b",
+        "updatedAt": 1777543200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1786076186367-zc33l",
+        "price": 556.0571170911959,
+        "color": "#f0b90b",
+        "updatedAt": 1777852800000,
+        "alert": false
+      }
+    ],
+    "ETHUSDT": [
+      {
+        "id": "hl-1785133531435-u7oy6",
+        "price": 1946.9238565173237,
+        "color": "#f0b90b",
+        "updatedAt": 1784390400000,
+        "alert": false
+      }
+    ],
+    "ONDOUSDT": [
+      {
+        "id": "hl-1785133546375-wpori",
+        "price": 0.3955203387560211,
+        "color": "#f0b90b",
+        "updatedAt": 1784390400000,
+        "alert": false
+      }
+    ],
+    "WLDUSDT": [
+      {
+        "id": "hl-1785133554777-rg9mk",
+        "price": 0.45015801794583,
+        "color": "#f0b90b",
+        "updatedAt": 1784390400000,
+        "alert": false
+      }
+    ],
+    "RIVERUSDT": [
+      {
+        "id": "hl-1785134625056-ume97",
+        "price": 10.60408026094685,
+        "color": "#f0b90b",
+        "updatedAt": 1767340800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785134666827-lm9jj",
+        "price": 23.49958504432971,
+        "color": "#f0b90b",
+        "updatedAt": 1767340800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785134671000-toqhz",
+        "price": 34.2928880268688,
+        "color": "#f0b90b",
+        "updatedAt": 1767340800000,
+        "alert": false
+      }
+    ],
+    "1000PEPEUSDT": [
+      {
+        "id": "hl-1785522850221-i4is3",
+        "price": 0.013717368235008066,
+        "color": "#f0b90b",
+        "updatedAt": 1752116400000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785522868965-p4hfl",
+        "price": 0.010812566423005703,
+        "color": "#f0b90b",
+        "updatedAt": 1752116400000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785134725040-lan6s",
+        "price": 0.005090894224162794,
+        "color": "#f0b90b",
+        "updatedAt": 1767340800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1786076940433-u1zss",
+        "price": 0.007454475193400513,
+        "color": "#f0b90b",
+        "updatedAt": 1767459600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1786076977650-cybn4",
+        "price": 0.006298948050979046,
+        "color": "#f0b90b",
+        "updatedAt": 1767459600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785826509955-ajj0l",
+        "price": 0.004137255773176451,
+        "color": "#f0b90b",
+        "updatedAt": 1776423600000,
+        "alert": false
+      }
+    ],
+    "SNDKUSDT": [
+      {
+        "id": "hl-1785262707650-kkgtr",
+        "price": 1328.1561585744648,
+        "color": "#f0b90b",
+        "updatedAt": 1785262707650,
+        "alert": false
+      }
+    ],
+    "QQQUSDT": [
+      {
+        "id": "hl-1786252503781-da32u",
+        "price": 649.802731854444,
+        "color": "#f0b90b",
+        "updatedAt": 1776229200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1786193564751-labzu",
+        "price": 682.4192544222166,
+        "color": "#f0b90b",
+        "updatedAt": 1786252528760,
+        "alert": false,
+        "role": null
+      },
+      {
+        "id": "hl-1786252523372-764iq",
+        "price": 666.7239199826132,
+        "color": "#f0b90b",
+        "updatedAt": 1786252713662,
+        "alert": false,
+        "role": null
+      },
+      {
+        "id": "hl-1786294194401-cmp8o",
+        "price": 714.0870698522344,
+        "color": "#f0b90b",
+        "updatedAt": 1786294508199,
+        "alert": false,
+        "role": null
+      },
+      {
+        "id": "hl-1786352693734-zjxa1",
+        "price": 743.2544003774148,
+        "color": "#f0b90b",
+        "updatedAt": 1786352727916,
+        "alert": false,
+        "role": null
+      },
+      {
+        "id": "hl-1786422027281-0msi7",
+        "price": 727.4621369873277,
+        "color": "#f0b90b",
+        "updatedAt": 1786422089806,
+        "alert": false,
+        "role": null
+      },
+      {
+        "id": "hl-1786422085467-cif6y",
+        "price": 696.1634403280186,
+        "color": "#f0b90b",
+        "updatedAt": 1786438544667,
+        "alert": false,
+        "role": null
+      }
+    ],
+    "AAPLUSDT": [
+      {
+        "id": "hl-1785262993559-4aqs3",
+        "price": 167.53049672691515,
+        "color": "#f0b90b",
+        "updatedAt": 1641823200000,
+        "alert": false
+      }
+    ],
+    "NVDAUSDT": [
+      {
+        "id": "hl-1785263005341-l82ks",
+        "price": 27.110688912379,
+        "color": "#f0b90b",
+        "updatedAt": 1641823200000,
+        "alert": false
+      }
+    ],
+    "AMZNUSDT": [
+      {
+        "id": "hl-1785263112041-5mxil",
+        "price": 159.20044876316632,
+        "color": "#f0b90b",
+        "updatedAt": 1641823200000,
+        "alert": false
+      }
+    ],
+    "CAPUSDT": [
+      {
+        "id": "hl-1785485440390-1u3ba",
+        "price": 0.02939761418316311,
+        "color": "#f0b90b",
+        "updatedAt": 1785420000000,
+        "alert": false
+      }
+    ],
+    "ALLOUSDT": [
+      {
+        "id": "hl-1785520233128-04r7k",
+        "price": 0.534474915176796,
+        "color": "#f0b90b",
+        "updatedAt": 1784538000000,
+        "alert": false
+      }
+    ],
+    "ATHUSDT": [
+      {
+        "id": "hl-1785520271138-g27m9",
+        "price": 0.005222952956746395,
+        "color": "#f0b90b",
+        "updatedAt": 1784538000000,
+        "alert": false
+      }
+    ],
+    "SNXUSDT": [
+      {
+        "id": "hl-1785520329366-j0s9w",
+        "price": 0.2538904091076038,
+        "color": "#f0b90b",
+        "updatedAt": 1784538000000,
+        "alert": false
+      }
+    ],
+    "AAVEUSDT": [
+      {
+        "id": "hl-1786089485205-qbejl",
+        "price": 279.80013778526273,
+        "color": "#f0b90b",
+        "updatedAt": 1747670400000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785520681844-j2oyc",
+        "price": 327.0204384725629,
+        "color": "#f0b90b",
+        "updatedAt": 1752091200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785520738570-xuxeh",
+        "price": 348.951928296393,
+        "color": "#f0b90b",
+        "updatedAt": 1752501600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785520739522-dxp4h",
+        "price": 380.69404957903816,
+        "color": "#f0b90b",
+        "updatedAt": 1752501600000,
+        "alert": false
+      }
+    ],
+    "PENGUUSDT": [
+      {
+        "id": "hl-1785520764337-r229o",
+        "price": 0.017556409662241725,
+        "color": "#f0b90b",
+        "updatedAt": 1752501600000,
+        "alert": false
+      }
+    ],
+    "WIFUSDT": [
+      {
+        "id": "hl-1785520956880-6lsri",
+        "price": 1.3972990453739373,
+        "color": "#f0b90b",
+        "updatedAt": 1752120000000,
+        "alert": false
+      }
+    ],
+    "UNIUSDT": [
+      {
+        "id": "hl-1785520966763-s9iza",
+        "price": 8.65805600961302,
+        "color": "#f0b90b",
+        "updatedAt": 1752120000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785520972688-di1gw",
+        "price": 10.248304719916527,
+        "color": "#f0b90b",
+        "updatedAt": 1752120000000,
+        "alert": false
+      }
+    ],
+    "APTUSDT": [
+      {
+        "id": "hl-1785772308236-b1851",
+        "price": 8.240313026794597,
+        "color": "#f0b90b",
+        "updatedAt": 1673542800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785772318838-bh4a3",
+        "price": 5.445850977010149,
+        "color": "#f0b90b",
+        "updatedAt": 1673542800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785772748457-souzh",
+        "price": 8.899875498172293,
+        "color": "#f0b90b",
+        "updatedAt": 1674205200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785824855121-468ih",
+        "price": 11.566196326696423,
+        "color": "#f0b90b",
+        "updatedAt": 1678579200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785824909786-z7lef",
+        "price": 10.50160690354177,
+        "color": "#f0b90b",
+        "updatedAt": 1678579200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785824942549-ji0cf",
+        "price": 9.893834132423372,
+        "color": "#f0b90b",
+        "updatedAt": 1678579200000,
+        "alert": false
+      }
+    ],
+    "OPUSDT": [
+      {
+        "id": "hl-1785772926039-vudjy",
+        "price": 2.0601913428195795,
+        "color": "#f0b90b",
+        "updatedAt": 1678377600000,
+        "alert": false
+      }
+    ],
+    "ARBUSDT": [
+      {
+        "id": "hl-1785825117603-xbtvk",
+        "price": 0.9950797859669305,
+        "color": "#f0b90b",
+        "updatedAt": 1683864000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785825118665-jje2u",
+        "price": 1.0902877697047848,
+        "color": "#f0b90b",
+        "updatedAt": 1683864000000,
+        "alert": false
+      }
+    ],
+    "MASKUSDT": [
+      {
+        "id": "hl-1785825302858-xcei0",
+        "price": 4.887389541362422,
+        "color": "#f0b90b",
+        "updatedAt": 1685300400000,
+        "alert": false
+      }
+    ],
+    "EDUUSDT": [
+      {
+        "id": "hl-1785825315353-shco2",
+        "price": 1.3522350965077323,
+        "color": "#f0b90b",
+        "updatedAt": 1685300400000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785825316946-q3nkc",
+        "price": 1.6268673122407504,
+        "color": "#f0b90b",
+        "updatedAt": 1685300400000,
+        "alert": false
+      }
+    ],
+    "HYPEUSDT": [
+      {
+        "id": "hl-1785825729314-m4hnp",
+        "price": 36.76496071469789,
+        "color": "#f0b90b",
+        "updatedAt": 1772611200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785825731378-4wdsl",
+        "price": 32.19755137389174,
+        "color": "#f0b90b",
+        "updatedAt": 1772611200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785992587795-6xqkb",
+        "price": 40.551607213118594,
+        "color": "#f0b90b",
+        "updatedAt": 1773831600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785992590075-4gkmh",
+        "price": 41.02985746527402,
+        "color": "#f0b90b",
+        "updatedAt": 1773831600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785826533876-abzls",
+        "price": 43.85111619725312,
+        "color": "#f0b90b",
+        "updatedAt": 1776423600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785991736494-bw1k5",
+        "price": 64.82362041206964,
+        "color": "#f0b90b",
+        "updatedAt": 1779688800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785826269693-ekkxq",
+        "price": 76.77073525779984,
+        "color": "#f0b90b",
+        "updatedAt": 1782982800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785995446079-5d4e4",
+        "price": 59.773263083814385,
+        "color": "#f0b90b",
+        "updatedAt": 1784696400000,
+        "alert": false
+      }
+    ],
+    "BILLUSDT": [
+      {
+        "id": "hl-1785991475500-63cvu",
+        "price": 0.11013139177488604,
+        "color": "#f0b90b",
+        "updatedAt": 1779688800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1785991476565-0ioq0",
+        "price": 0.12035827918982045,
+        "color": "#f0b90b",
+        "updatedAt": 1779688800000,
+        "alert": false
+      }
+    ],
+    "MAGICUSDT": [
+      {
+        "id": "hl-1786088712244-mha5p",
+        "price": 0.17840291565188304,
+        "color": "#f0b90b",
+        "updatedAt": 1752066000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1786088714877-5ljh8",
+        "price": 0.21115477085735085,
+        "color": "#f0b90b",
+        "updatedAt": 1752066000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1786088716652-clrx9",
+        "price": 0.18896803023429198,
+        "color": "#f0b90b",
+        "updatedAt": 1752066000000,
+        "alert": false
+      }
+    ],
     "BTCUSDT": [
       {
-        "id": "hl-1785127671396-zouuv",
-        "price": 62292.333056917145,
+        "id": "hl-1786366438842-6wbwa",
+        "price": 92135.936115873,
         "color": "#f0b90b",
-        "updatedAt": 1784865600000,
-        "alert": false
+        "updatedAt": 1786366552433,
+        "alert": false,
+        "role": null
       },
       {
-        "id": "hl-1785127673769-y82mk",
-        "price": 67195.87657609275,
+        "id": "hl-1786366551766-dz71s",
+        "price": 88695.65042660238,
         "color": "#f0b90b",
-        "updatedAt": 1784865600000,
-        "alert": false
+        "updatedAt": 1786373015179,
+        "alert": false,
+        "role": null
       },
       {
-        "id": "hl-1785127676426-r4bkn",
-        "price": 65577.7072147648,
+        "id": "hl-1786373207654-8mqnb",
+        "price": 71554.26646257206,
         "color": "#f0b90b",
-        "updatedAt": 1784865600000,
-        "alert": false
+        "updatedAt": 1786373962092,
+        "alert": false,
+        "role": null
+      },
+      {
+        "id": "hl-1786373285373-anupb",
+        "price": 68183.20940759826,
+        "color": "#f0b90b",
+        "updatedAt": 1786438537435,
+        "alert": false,
+        "role": null
+      },
+      {
+        "id": "hl-1786438536066-xme6z",
+        "price": 63656.52499384595,
+        "color": "#f0b90b",
+        "updatedAt": 1786439699204,
+        "alert": false,
+        "role": null
+      },
+      {
+        "id": "hl-1786439698407-s27yc",
+        "price": 64921.97407068594,
+        "color": "#26c6da",
+        "updatedAt": 1786439699204,
+        "alert": false,
+        "role": "boxTop"
       }
     ]
   },
