@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-25T16:43:26.619Z",
+  "updatedAt": "2026-08-28T17:29:02.625Z",
   "bySymbol": {
     "QQQUSDT": [
       {
@@ -42,10 +42,10 @@
         "alert": false
       },
       {
-        "id": "hl-1787566777813-4pz7m",
-        "price": 65549.00703465486,
+        "id": "hl-1787679043386-d9e8t",
+        "price": 63680.74849211797,
         "color": "#26c6da",
-        "updatedAt": 1784739600000,
+        "updatedAt": 1781787600000,
         "alert": false
       },
       {
