@@ -1,65 +1,145 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-28T17:29:02.625Z",
+  "updatedAt": "2026-08-30T09:27:39.131Z",
   "bySymbol": {
+    "HYPEUSDT": [
+      {
+        "id": "hl-1788020058154-v4xch",
+        "price": 53.72409573850031,
+        "color": "#26c6da",
+        "updatedAt": 1786446000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788020058801-h2i65",
+        "price": 53.9099090747823,
+        "color": "#26c6da",
+        "updatedAt": 1786446000000,
+        "alert": false
+      }
+    ],
     "QQQUSDT": [
       {
-        "id": "hl-1787469554752-q3glt",
-        "price": 681.3036111136295,
+        "id": "hl-1788022652378-9ezyz",
+        "price": 668.7936172228298,
         "color": "#26c6da",
-        "updatedAt": 1786039200000,
+        "updatedAt": 1777424400000,
         "alert": false
       },
       {
-        "id": "hl-1787469556456-6b9j9",
-        "price": 658.2459377604561,
+        "id": "hl-1788022672671-42ic1",
+        "price": 677.6734883569051,
         "color": "#26c6da",
-        "updatedAt": 1786039200000,
+        "updatedAt": 1777575600000,
         "alert": false
       },
       {
-        "id": "hl-1787034278339-3mtri",
-        "price": 716.577662437583,
+        "id": "hl-1788022623164-ftuif",
+        "price": 656.5572550797538,
         "color": "#26c6da",
-        "updatedAt": 1787034281271,
-        "alert": false,
-        "role": "boxTop"
+        "updatedAt": 1777626000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788022624235-pa3q9",
+        "price": 646.0858746995593,
+        "color": "#26c6da",
+        "updatedAt": 1777626000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788023044270-15ud8",
+        "price": 672.0167702767677,
+        "color": "#26c6da",
+        "updatedAt": 1777935600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788023045677-6id7u",
+        "price": 670.7255628889103,
+        "color": "#26c6da",
+        "updatedAt": 1777935600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788022832900-wew11",
+        "price": 697.2029376180957,
+        "color": "#26c6da",
+        "updatedAt": 1777942800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788022839185-grann",
+        "price": 715.1993443065109,
+        "color": "#26c6da",
+        "updatedAt": 1778695200000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788022853770-p8xck",
+        "price": 705.072052365228,
+        "color": "#26c6da",
+        "updatedAt": 1778781600000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788024108545-vupdc",
+        "price": 736.2661855746578,
+        "color": "#26c6da",
+        "updatedAt": 1780326000000,
+        "alert": false
+      }
+    ],
+    "ETHUSDT": [
+      {
+        "id": "hl-1788074037278-3karz",
+        "price": 2165.720416722948,
+        "color": "#26c6da",
+        "updatedAt": 1775588400000,
+        "alert": false
       }
     ],
     "BTCUSDT": [
       {
-        "id": "hl-1787512384064-uwn1t",
-        "price": 111402.99654923893,
+        "id": "hl-1788080054590-3zjyx",
+        "price": 68203.01089038354,
         "color": "#26c6da",
-        "updatedAt": 1758704400000,
+        "updatedAt": 1772420400000,
         "alert": false
       },
       {
-        "id": "hl-1787512384506-15r28",
-        "price": 110757.56025471227,
+        "id": "hl-1788080055862-b9i67",
+        "price": 64993.27163830444,
         "color": "#26c6da",
-        "updatedAt": 1758704400000,
+        "updatedAt": 1772420400000,
         "alert": false
       },
       {
-        "id": "hl-1787679043386-d9e8t",
-        "price": 63680.74849211797,
+        "id": "hl-1788080083663-ivpzd",
+        "price": 70121.12153923779,
         "color": "#26c6da",
-        "updatedAt": 1781787600000,
+        "updatedAt": 1772564400000,
         "alert": false
       },
       {
-        "id": "hl-1787560639734-wwi4o",
-        "price": 75613.06924605876,
+        "id": "hl-1788080095477-2af9a",
+        "price": 74076.86411607038,
         "color": "#26c6da",
-        "updatedAt": 1787349600000,
+        "updatedAt": 1772564400000,
         "alert": false
       },
       {
-        "id": "hl-1787594858227-lhdxd",
-        "price": 62398.03087379806,
+        "id": "hl-1788080125701-t55c9",
+        "price": 66231.47974396133,
         "color": "#26c6da",
-        "updatedAt": 1787565600000,
+        "updatedAt": 1772884800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1788080166721-0a97j",
+        "price": 71704.6006008026,
+        "color": "#26c6da",
+        "updatedAt": 1773248400000,
         "alert": false
       }
     ]
