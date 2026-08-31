@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-30T09:27:39.131Z",
+  "updatedAt": "2026-08-31T08:18:18.189Z",
   "bySymbol": {
     "HYPEUSDT": [
       {
@@ -101,45 +101,24 @@
     ],
     "BTCUSDT": [
       {
-        "id": "hl-1788080054590-3zjyx",
-        "price": 68203.01089038354,
+        "id": "hl-1788084636645-so0mj",
+        "price": 81401.61973433127,
         "color": "#26c6da",
-        "updatedAt": 1772420400000,
+        "updatedAt": 1787925600000,
         "alert": false
       },
       {
-        "id": "hl-1788080055862-b9i67",
-        "price": 64993.27163830444,
+        "id": "hl-1788095879892-0r8v4",
+        "price": 77284.6759431708,
         "color": "#26c6da",
-        "updatedAt": 1772420400000,
+        "updatedAt": 1788019200000,
         "alert": false
       },
       {
-        "id": "hl-1788080083663-ivpzd",
-        "price": 70121.12153923779,
+        "id": "hl-1788153434082-bejgg",
+        "price": 79788.07705940458,
         "color": "#26c6da",
-        "updatedAt": 1772564400000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788080095477-2af9a",
-        "price": 74076.86411607038,
-        "color": "#26c6da",
-        "updatedAt": 1772564400000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788080125701-t55c9",
-        "price": 66231.47974396133,
-        "color": "#26c6da",
-        "updatedAt": 1772884800000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788080166721-0a97j",
-        "price": 71704.6006008026,
-        "color": "#26c6da",
-        "updatedAt": 1773248400000,
+        "updatedAt": 1788109200000,
         "alert": false
       }
     ]
