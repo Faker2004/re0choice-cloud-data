@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-17T02:41:37.629Z",
+  "updatedAt": "2026-09-29T12:15:25.926Z",
   "bySymbol": {
     "HYPEUSDT": [
       {
@@ -57,29 +57,6 @@
         "alert": false
       }
     ],
-    "QQQUSDT": [
-      {
-        "id": "hl-1788238548706-gkrvy",
-        "price": 747.7495170675876,
-        "color": "#26c6da",
-        "updatedAt": 1782885600000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788238425930-bafkm",
-        "price": 722.491070190883,
-        "color": "#26c6da",
-        "updatedAt": 1787637600000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788238430998-y9g76",
-        "price": 704.80359274529,
-        "color": "#26c6da",
-        "updatedAt": 1787637600000,
-        "alert": false
-      }
-    ],
     "UNIUSDT": [
       {
         "id": "hl-1788243581187-xk1w4",
@@ -93,71 +70,6 @@
         "price": 5.955536107426112,
         "color": "#26c6da",
         "updatedAt": 1788339600000,
-        "alert": false
-      }
-    ],
-    "BTCUSDT": [
-      {
-        "id": "hl-1789112764987-huia6",
-        "price": 92485.86813113619,
-        "color": "#26c6da",
-        "updatedAt": 1736391600000,
-        "alert": false
-      },
-      {
-        "id": "hl-1789112767344-ggnbr",
-        "price": 102790.65836891846,
-        "color": "#26c6da",
-        "updatedAt": 1736391600000,
-        "alert": false
-      },
-      {
-        "id": "hl-1789205052322-6r3fp",
-        "price": 108219.16977766504,
-        "color": "#26c6da",
-        "updatedAt": 1737061200000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788543241611-0y6aw",
-        "price": 70078.08355289217,
-        "color": "#26c6da",
-        "updatedAt": 1772348400000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788783859861-r6nhl",
-        "price": 78896.37777728909,
-        "color": "#26c6da",
-        "updatedAt": 1777734000000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788346612325-cslgv",
-        "price": 63584.89876033385,
-        "color": "#26c6da",
-        "updatedAt": 1781560800000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788587416067-1g0ej",
-        "price": 75581.69678463192,
-        "color": "#26c6da",
-        "updatedAt": 1787479200000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788347307938-a3ddb",
-        "price": 81272.21726098805,
-        "color": "#26c6da",
-        "updatedAt": 1787774400000,
-        "alert": false
-      },
-      {
-        "id": "hl-1788604901853-wjtfc",
-        "price": 76158.05777675273,
-        "color": "#26c6da",
-        "updatedAt": 1788598800000,
         "alert": false
       }
     ],
@@ -342,6 +254,114 @@
         "price": 2.3487713345847254,
         "color": "#26c6da",
         "updatedAt": 1787832000000,
+        "alert": false
+      }
+    ],
+    "AVAUSDT": [
+      {
+        "id": "hl-1789793229371-370lh",
+        "price": 0.22078412477160592,
+        "color": "#26c6da",
+        "updatedAt": 1789729200000,
+        "alert": false
+      }
+    ],
+    "BICOUSDT": [
+      {
+        "id": "hl-1789911915289-uiykn",
+        "price": 0.023176128841840393,
+        "color": "#26c6da",
+        "updatedAt": 1787835600000,
+        "alert": false
+      }
+    ],
+    "BTCUSDT": [
+      {
+        "id": "hl-1789973994720-cxmj0",
+        "price": 58183.48659849424,
+        "color": "#26c6da",
+        "updatedAt": 1783080000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1789974003387-k1xx2",
+        "price": 59474.88083851941,
+        "color": "#26c6da",
+        "updatedAt": 1783080000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1789974022243-vvy5k",
+        "price": 61094.20146605261,
+        "color": "#26c6da",
+        "updatedAt": 1783080000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1789961207348-652pe",
+        "price": 80095.90416115083,
+        "color": "#26c6da",
+        "updatedAt": 1788742800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1790153802395-0ysyz",
+        "price": 76352.18945398761,
+        "color": "#26c6da",
+        "updatedAt": 1789966800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1790244158691-u2jvw",
+        "price": 82151.69258072642,
+        "color": "#26c6da",
+        "updatedAt": 1790244158691,
+        "alert": false
+      },
+      {
+        "id": "hl-1790653387408-668al",
+        "price": 84293.68538629811,
+        "color": "#26c6da",
+        "updatedAt": 1790434800000,
+        "alert": false
+      },
+      {
+        "id": "hl-1790581825991-dka1o",
+        "price": 82857.5440428359,
+        "color": "#26c6da",
+        "updatedAt": 1790568000000,
+        "alert": false
+      }
+    ],
+    "QQQUSDT": [
+      {
+        "id": "hl-1789965819227-vufpp",
+        "price": 717.0369179714612,
+        "color": "#26c6da",
+        "updatedAt": 1786590000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1789965824235-ewkbe",
+        "price": 722.8260118543765,
+        "color": "#26c6da",
+        "updatedAt": 1786590000000,
+        "alert": false
+      },
+      {
+        "id": "hl-1789965835362-tfae7",
+        "price": 709.622400185175,
+        "color": "#26c6da",
+        "updatedAt": 1786590000000,
+        "alert": false
+      }
+    ],
+    "AVAXUSDT": [
+      {
+        "id": "hl-1790134382269-2vl2j",
+        "price": 8.386800456779707,
+        "color": "#26c6da",
+        "updatedAt": 1790134382269,
         "alert": false
       }
     ]
