@@ -1,25 +1,43 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-01T14:00:53.363Z",
+  "updatedAt": "2026-10-08T06:55:12.196Z",
   "masterEnabled": true,
   "bySymbol": {
     "BTC": {
-      "V底": true,
+      "箱内多": true,
+      "箱破多": true,
+      "箱内空": true,
+      "箱破空": true,
+      "EMA↑": false,
+      "V底": false,
       "V顶": false,
       "破口": false,
       "破底": false,
       "破顶": false,
-      "回踩": true,
+      "回踩": false,
       "回抽": false
     },
     "QQQ": {
-      "V底": true,
-      "V顶": true,
+      "箱内多": true,
+      "箱破多": true,
+      "箱内空": true,
+      "箱破空": true,
+      "EMA↑": false,
+      "V底": false,
+      "V顶": false,
       "破口": false,
       "破底": false,
       "破顶": false,
-      "回踩": true,
-      "回抽": true
+      "回踩": false,
+      "回抽": false
     }
-  }
+  },
+  "stocks": [
+    {
+      "instId": "ZECUSDT",
+      "label": "ZEC",
+      "boxLong": true,
+      "boxShort": true
+    }
+  ]
 }
