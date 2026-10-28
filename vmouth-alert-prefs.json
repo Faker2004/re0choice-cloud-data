@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-28T11:10:17.045Z",
-  "masterEnabled": false,
+  "updatedAt": "2026-10-28T11:10:21.770Z",
+  "masterEnabled": true,
   "bySymbol": {
     "BTC": {
       "开始认可": true,
