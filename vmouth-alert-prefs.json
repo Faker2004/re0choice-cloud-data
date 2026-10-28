@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-08T06:55:30.642Z",
-  "masterEnabled": true,
+  "updatedAt": "2026-10-28T11:10:17.045Z",
+  "masterEnabled": false,
   "bySymbol": {
     "BTC": {
-      "箱内多": true,
-      "箱破多": true,
-      "箱内空": true,
-      "箱破空": true,
+      "开始认可": true,
+      "结束认可": true,
+      "箱内多": false,
+      "箱破多": false,
+      "箱内空": false,
+      "箱破空": false,
       "EMA↑": false,
       "V底": false,
       "V顶": false,
@@ -18,10 +20,12 @@
       "回抽": false
     },
     "QQQ": {
-      "箱内多": true,
-      "箱破多": true,
-      "箱内空": true,
-      "箱破空": true,
+      "开始认可": true,
+      "结束认可": true,
+      "箱内多": false,
+      "箱破多": false,
+      "箱内空": false,
+      "箱破空": false,
       "EMA↑": false,
       "V底": false,
       "V顶": false,
