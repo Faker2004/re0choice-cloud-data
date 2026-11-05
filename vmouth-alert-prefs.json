@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T04:11:35.320Z",
+  "updatedAt": "2026-11-05T07:24:12.697Z",
   "masterEnabled": true,
   "bySymbol": {
     "BTC": {
@@ -45,14 +45,5 @@
     }
   },
   "minTurnoverM": 100,
-  "stocks": [
-    {
-      "instId": "NEARUSDT",
-      "label": "NEAR",
-      "volRecog": true,
-      "alertYang3": true,
-      "alertYin3": true,
-      "volRecogArmedAtMs": 1793765495319
-    }
-  ]
+  "stocks": []
 }
